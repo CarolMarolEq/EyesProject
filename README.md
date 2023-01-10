@@ -1,4 +1,5 @@
 # EyesProject
+<a href="https://carolmaroleq.github.io/EyesProject/"> Eyes Project </a>
 This Project was used to showcase how to use javascript to create a dynamic webpage - in this case a set of eyes dynamically follow your mouse around the screen.
 
 In the future i'd like to build on this skillset by being able to make the eyes open and close by hovering or clicking. This would add an extra fun element to the page.
